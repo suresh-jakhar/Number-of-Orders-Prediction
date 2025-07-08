@@ -72,7 +72,7 @@ Build a model that can predict the number of daily orders based on input feature
 
 ---
 
-## 🤔 What I Actually Learned
+##  What I Actually Learned
 
 - How to extract datetime features from a column
 - The value of simple visualizations in understanding temporal data
@@ -83,7 +83,7 @@ Build a model that can predict the number of daily orders based on input feature
 
 ---
 
-## 🔍 Limitations
+##  Limitations
 
 - No parameter tuning or optimization done for either model
 - No feature scaling or selection applied
